@@ -206,6 +206,5 @@ Emoji:
     Markup : Code appears between colons :EMOJICODE:
     
 :mask: 
-
-
 Wanikkasit Nopthiraitthikun 652115043
+thippharake Na Chiengmai 662115019
